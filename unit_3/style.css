@@ -1,0 +1,54 @@
+*{
+	margin:10px;
+	padding:10px;
+	box-sizing: border-box;
+}
+body{ 
+	background-color: #2D6478;
+	color:#FFFFFF;
+	font-family: Garamond;
+}
+h1{
+	text-align: center;
+	font-size: 36x;
+}
+h2{
+	font-size:30px;
+}
+img{
+	display: block;
+	margin:auto;
+	max-height:200px;
+	max-width;50%
+}
+p{
+	text-align:justify;
+	font-size: 24px;
+}
+#slogan{
+	text-align: center;
+}
+.floating-box{
+    display: inline-block;
+    width: 20%;
+    height: 25%;
+    margin: 10px;
+    border: 3px solid #FFFFFF; 
+    text-align: center; 
+}
+.floating-box-copy{
+	text-align: center;
+}
+.footer-box {
+	margin: 10px;
+    border: 3px solid #FFFFFF; 
+}
+li{
+	text-indent: 30px;
+	line-height: .8;
+}
+a{
+	font-style: bold;
+	font-style: underline;
+	color:#FFFFFF;
+}
